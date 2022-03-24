@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 30pt;
+}
+
+h2 {
+    font-weight: 200;
+}
+
+h3 {
+    font-weight: 200;
+    padding-left: 40px;
+}
+
+h4 {
+    padding-left: 60px;
+    font-weight: 200;
+}
