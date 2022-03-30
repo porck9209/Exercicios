@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(68, 64, 64, 0.664);
+    color: white;
+    font-family: 'Red Hat Mono', monospace;
+}
+
+a {
+    color: rgb(148, 64, 58);
+}
+
+footer {
+    text-align: center;
+    text-shadow: 1px 3px black;
+    background-color: rgb(148, 64, 58);
+}
