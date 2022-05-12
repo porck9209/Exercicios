@@ -1,0 +1,20 @@
+body {
+    font-size: 30px;
+    font-family: 'Beau Rivage', cursive;
+    background-color: black;
+    color: rgb(10, 154, 250);
+}
+
+h1 {
+    color: rgb(238, 250, 67);
+    text-shadow: 1px 2px white;
+}
+
+h2 {
+    color: palegoldenrod;
+    text-shadow: 1px 1px rgb(160, 255, 160);
+}
+
+a {
+    color: gray;
+}
